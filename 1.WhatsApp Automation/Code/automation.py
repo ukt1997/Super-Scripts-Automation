@@ -25,7 +25,7 @@ print("Scan QR Code, And then Enter")
 print("Logged In")
 input("1. Enter To Move Forward :")
   
-contact = "Conatct Name"
+contact = "Conatct Name" #Replace it with Contacts Name you want to send Text 
 text = "Your Message"
 
 print("Contact and message set ")
